@@ -1,0 +1,2 @@
+# HastingsTouristApp
+Android Application
